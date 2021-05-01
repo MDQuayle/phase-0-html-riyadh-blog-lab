@@ -26,16 +26,16 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: rgba(6, 245, 6, 0.815);
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4em;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2em;
   margin-top: .5em;
 }
 
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(80, 0, 0);
   text-decoration: none;
 }
 
